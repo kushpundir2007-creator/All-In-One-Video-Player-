@@ -1,0 +1,5 @@
+{
+  "name": "UniView Player",
+  "description": "A universal online video viewer that allows users to open and play video files directly from their local disk, without uploading them to any server. It's a private, offline-compatible web app that supports virtually all video formats.",
+  "requestFramePermissions": []
+}
